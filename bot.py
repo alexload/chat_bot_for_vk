@@ -71,6 +71,7 @@ class BotVk:
         else:
             log.error('ошибка типа type')
 
+prime = 43
 
 if __name__ == '__main__':
     loging_for_bot()
